@@ -1,0 +1,15 @@
+C:\Users\manuf\source\repos\ProyectoLab\bin\Debug\ProyectoLab.exe.config
+C:\Users\manuf\source\repos\ProyectoLab\bin\Debug\ProyectoLab.exe
+C:\Users\manuf\source\repos\ProyectoLab\bin\Debug\ProyectoLab.pdb
+C:\Users\manuf\source\repos\ProyectoLab\obj\Debug\ProyectoLab.csproj.AssemblyReference.cache
+C:\Users\manuf\source\repos\ProyectoLab\obj\Debug\ProyectoLab.Properties.Resources.resources
+C:\Users\manuf\source\repos\ProyectoLab\obj\Debug\ProyectoLab.csproj.GenerateResource.cache
+C:\Users\manuf\source\repos\ProyectoLab\obj\Debug\ProyectoLab.csproj.CoreCompileInputs.cache
+C:\Users\manuf\source\repos\ProyectoLab\obj\Debug\ProyectoLab.exe
+C:\Users\manuf\source\repos\ProyectoLab\obj\Debug\ProyectoLab.pdb
+C:\Users\manuf\source\repos\ProyectoLab\obj\Debug\ProyectoLab.Clientes.resources
+C:\Users\manuf\source\repos\ProyectoLab\obj\Debug\ProyectoLab.Productos.resources
+C:\Users\manuf\source\repos\ProyectoLab\obj\Debug\ProyectoLab.LoginVista.resources
+C:\Users\manuf\source\repos\ProyectoLab\obj\Debug\ProyectoLab.RealizarPedidoVista.resources
+C:\Users\manuf\source\repos\ProyectoLab\obj\Debug\ProyectoLab.DetalleDePedido.resources
+C:\Users\manuf\source\repos\ProyectoLab\obj\Debug\ProyectoLab.Integrantes.resources
